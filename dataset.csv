@@ -1,0 +1,569 @@
+Intent,Examples
+Greet,Hi
+Greet,How are you?
+Greet,Hello
+Greet,Good morning
+Greet,Good afternoon
+Greet,Good evening
+Greet,Howdy
+Greet,Hey
+Greet,Greetings
+Greet,Hi there
+Greet,Hello how are you?
+Greet,Good day
+Greet,What's up?
+Greet,Yo
+Greet,How's it going?
+Greet,How do you do?
+Greet,How are you doing?
+Greet,Hey there
+Greet,Hi everyone
+Greet,Welcome
+Greet,Hello everyone
+Greet,Hiya
+Greet,Hello there
+Greet,Hi how are you?
+Greet,What's happening?
+Greet,Hey what's up?
+Greet,How's everything?
+Greet,How've you been?
+Greet,How are things?
+Greet,What's new?
+Farewell,Goodbye
+Farewell,See you later
+Farewell,Take care
+Farewell,Have a great day
+Farewell,Bye
+Farewell,Catch you later
+Farewell,Have a nice day
+Farewell,Farewell
+Farewell,Take it easy
+Farewell,See ya
+Farewell,Bye-bye
+Farewell,Later
+Farewell,See you soon
+Farewell,Good night
+Farewell,Talk to you later
+Farewell,Peace out
+Farewell,Ciao
+Farewell,So long
+Farewell,Bye for now
+Farewell,All the best
+Farewell,Until next time
+Farewell,Bye now
+Farewell,Later gator
+Farewell,Have a good one
+Farewell,Cheerio
+Farewell,I'm out
+Farewell,Catch you on the flip side
+Farewell,Have a good day
+Farewell,Goodbye for now
+Farewell,Peace
+Inquiry,What's the weather like today?
+Inquiry,Can you tell me the time?
+Inquiry,Where is the nearest restaurant?
+Inquiry,How much does this cost?
+Inquiry,What time do you open?
+Inquiry,Do you have this in stock?
+Inquiry,How can I help you?
+Inquiry,What's the status of my order?
+Inquiry,Can you assist me with this?
+Inquiry,What are your hours of operation?
+Inquiry,Can I speak to a representative?
+Inquiry,How can I make a reservation?
+Inquiry,Do you offer discounts?
+Inquiry,What's the return policy?
+Inquiry,How long does shipping take?
+Inquiry,Is this item on sale?
+Inquiry,How can I update my address?
+Inquiry,What's the best way to contact you?
+Inquiry,Do you offer customer support?
+Inquiry,Can I pay with a credit card?
+Inquiry,Is this available?
+Inquiry,How do I cancel my order?
+Inquiry,Can I change my reservation?
+Inquiry,Do you have gluten-free options?
+Inquiry,Do you offer vegetarian meals?
+Inquiry,What's the cancellation policy?
+Inquiry,Can I speak to a supervisor?
+Inquiry,How do I contact customer service?
+Inquiry,Is there a waiting list?
+Inquiry,How do I check the status of my order?
+Request,Can you help me?
+Request,Could you assist me?
+Request,Can I ask for your help?
+Request,Could you do me a favor?
+Request,Could you please help me?
+Request,Would you be able to help?
+Request,I need your assistance
+Request,Could you lend me a hand?
+Request,Can you do this for me?
+Request,Could you help me out?
+Request,Could you do me a solid?
+Request,Would you please assist me?
+Request,Can I request your help?
+Request,Could you take care of this?
+Request,Can you manage this for me?
+Request,Would you handle this for me?
+Request,Could you sort this out for me?
+Request,Would you mind helping me?
+Request,Can I count on you?
+Request,Would you be so kind as to help?
+Request,Would you mind assisting me?
+Request,Can I have your assistance?
+Request,Could you take care of that?
+Request,Can you handle that for me?
+Request,Would you take care of that for me?
+Request,Could you manage that for me?
+Request,Can you help with this?
+Request,Could you help with this?
+Request,Would you mind helping with this?
+Request,Can you do me a favor and help?
+Thanks,Thank you
+Thanks,Thanks a lot
+Thanks,I appreciate it
+Thanks,Much appreciated
+Thanks,Thanks for your help
+Thanks,You're the best
+Thanks,Thanks for everything
+Thanks,I owe you one
+Thanks,Thanks a million
+Thanks,Thank you so much
+Thanks,You're amazing
+Thanks,You're wonderful
+Thanks,Thanks for being awesome
+Thanks,I can't thank you enough
+Thanks,I really appreciate your help
+Thanks,Thanks a bunch
+Thanks,Thanks for your assistance
+Thanks,You're a lifesaver
+Thanks,I'm grateful for your help
+Thanks,You're a star
+Thanks,You're awesome
+Thanks,You're incredible
+Thanks,You're fantastic
+Thanks,You're exceptional
+Thanks,You're a hero
+Thanks,You're remarkable
+Thanks,You're brilliant
+Thanks,You're outstanding
+Thanks,You're phenomenal
+Thanks,You're terrific
+Apology,I'm sorry
+Apology,My apologies
+Apology,I apologize
+Apology,Sorry about that
+Apology,Sorry for the inconvenience
+Apology,I deeply regret
+Apology,My bad
+Apology,Oops sorry
+Apology,Please forgive me
+Apology,I didn't mean to
+Apology,That was unintentional
+Apology,I apologize for the oversight
+Apology,I beg your pardon
+Apology,Please excuse me
+Apology,I'm really sorry
+Apology,I take full responsibility
+Apology,It's my fault
+Apology,I'm truly sorry
+Apology,I apologize sincerely
+Apology,I'm regretful
+Apology,I'm so sorry
+Apology,Please accept my apology
+Apology,I'm sorry if I hurt you
+Apology,That was a mistake
+Apology,Please understand
+Apology,I'm sorry for any trouble caused
+Apology,My sincerest apologies
+Apology,I didn't realize
+Apology,That was wrong of me
+Apology,I apologize if I offended you
+Invitation,Would you like to join me for dinner?
+Invitation,Do you want to come over?
+Invitation,How about we go out for lunch?
+Invitation,Do you want to go for a walk?
+Invitation,How about a movie night?
+Invitation,Would you like to attend the party?
+Invitation,Can I invite you over for coffee?
+Invitation,Do you want to come to my place?
+Invitation,Let's hang out this weekend
+Invitation,How about a game night?
+Invitation,Would you like to join me for a drink?
+Invitation,Do you want to grab dinner?
+Invitation,How about a picnic?
+Invitation,Would you like to go to the concert?
+Invitation,Can we meet for brunch?
+Invitation,Do you want to catch up over coffee?
+Invitation,How about we go hiking?
+Invitation,Would you like to attend the wedding?
+Invitation,Can I invite you to a barbecue?
+Invitation,Do you want to come to my party?
+Invitation,How about we go to a comedy show?
+Invitation,Would you like to go bowling?
+Invitation,Can I invite you to the event?
+Invitation,Do you want to join me for a workout?
+Invitation,How about a cooking class?
+Invitation,Would you like to go to the museum?
+Invitation,Can we go shopping together?
+Invitation,Do you want to join me for lunch?
+Invitation,How about we go to a festival?
+Invitation,Would you like to come to my birthday party?
+Complaint,This is unacceptable
+Complaint,I'd like to speak to a manager
+Complaint,I'm very dissatisfied
+Complaint,This is the worst experience ever
+Complaint,You overcharged me
+Complaint,Your product is faulty
+Complaint,You promised me better
+Complaint,This needs to be fixed immediately
+Complaint,I've had a terrible experience
+Complaint,You charged me incorrectly
+Complaint,Your service is terrible
+Complaint,This isn't what I ordered
+Complaint,Your staff was rude
+Complaint,Your product broke
+Complaint,I'm disappointed
+Complaint,You need to do better
+Complaint,This isn't worth the money
+Complaint,I'm not coming back
+Complaint,Your delivery was late
+Complaint,The product arrived damaged
+Complaint,You didn't meet my expectations
+Complaint,This is not what I paid for
+Complaint,I'm not satisfied with your service
+Complaint,This is misleading
+Complaint,You owe me a refund
+Complaint,This is false advertising
+Complaint,The service was poor
+Complaint,I'm not happy with my purchase
+Complaint,Your support is unresponsive
+Agreement,That's great
+Agreement,Yes that's true
+Agreement,Indeed
+Agreement,You got it
+Agreement,Absolutely
+Agreement,Of course
+Agreement,That's right
+Agreement,I agree with you
+Agreement,You're correct
+Agreement,That makes sense
+Agreement,I'm with you
+Agreement,That's exactly what I think
+Agreement,That's precisely what I thought
+Agreement,You're spot on
+Agreement,I second that
+Agreement,That's spot on
+Agreement,Definitely
+Agreement,For sure
+Agreement,Totally
+Agreement,Exactly
+Agreement,You bet
+Agreement,Agreed
+Agreement,You're right
+Agreement,That's clear
+Agreement,Absolutely right
+Agreement,That's it
+Agreement,You're exactly right
+Agreement,That's what I think too
+Agreement,We're on the same page
+Support,Can you help me?
+Support,How do I get support?
+Support,Can you assist me?
+Support,How can I contact support?
+Support,Can you help me with this issue?
+Support,How do I reach support?
+Support,Can you support me?
+Support,How can I get support with this?
+Support,Can you help me solve this?
+Support,How do I get technical support?
+Support,Can you assist me with a problem?
+Support,How can I get customer support?
+Support,Can you support me with this?
+Support,How do I contact customer service?
+Support,Can you help me resolve this?
+Support,How can I get assistance?
+Support,Can you provide support for this?
+Support,How do I get assistance?
+Support,Can you give me support?
+Support,How can I get help?
+Support,Can you offer me support?
+Support,How do I get IT support?
+Support,Can you aid me?
+Support,How do I reach customer service?
+Support,Can you lend support?
+Support,How can I get technical support?
+Support,Can you back me up?
+Support,How do I resolve this with support?
+Support,Can you stand by me?
+Support,How do I address this with support?
+Suggestion,How about we try a different approach?
+Suggestion,Why don't we take a break?
+Suggestion,How about we brainstorm ideas?
+Suggestion,Can I suggest something?
+Suggestion,How about we focus on the positives?
+Suggestion,Why don't we collaborate on this?
+Suggestion,How about we schedule a meeting?
+Suggestion,Can I recommend a solution?
+Suggestion,How about we explore alternatives?
+Suggestion,Why don't we get feedback first?
+Suggestion,How about we review the options?
+Suggestion,Can I propose an idea?
+Suggestion,How about we discuss this further?
+Suggestion,Why don't we research more?
+Suggestion,How about we delegate tasks?
+Suggestion,Can I suggest a change?
+Suggestion,How about we set a timeline?
+Suggestion,Why don't we prioritize this?
+Suggestion,How about we simplify the process?
+Suggestion,Can I recommend a different plan?
+Suggestion,How about we outline the goals?
+Suggestion,Why don't we assess the risks?
+Suggestion,How about we create a checklist?
+Suggestion,Can I propose a different strategy?
+Suggestion,How about we revise the proposal?
+Suggestion,Why don't we test the assumptions?
+Suggestion,How about we align on the objectives?
+Suggestion,Can I recommend a new approach?
+Suggestion,How about we define the metrics?
+Suggestion,Why don't we review the performance?
+Advice,You should consult a professional
+Advice,It's important to get enough rest
+Advice,Try to stay positive
+Advice,You should eat healthy meals
+Advice,Stay organized
+Advice,It's wise to save money
+Advice,Don't skip meals
+Advice,You should exercise regularly
+Advice,Stay hydrated
+Advice,It's important to take breaks
+Advice,Don't procrastinate
+Advice,You should manage your time well
+Advice,Stay focused
+Advice,It's wise to set goals
+Advice,Don't overwork yourself
+Advice,You should practice self-care
+Advice,Stay calm
+Advice,It's important to stay connected
+Advice,Don't ignore problems
+Advice,You should learn continuously
+Advice,Stay motivated
+Advice,It's wise to seek feedback
+Advice,Don't rush decisions
+Advice,You should prioritize tasks
+Advice,Stay adaptable
+Advice,It's important to stay consistent
+Advice,Don't compare yourself to others
+Advice,You should be patient
+Advice,Stay resilient
+Advice,It's wise to stay informed
+Explanation,Let me explain
+Explanation,Here's what I mean
+Explanation,Allow me to clarify
+Explanation,This is what happened
+Explanation,Let me give you the details
+Explanation,Here's what you need to know
+Explanation,Allow me to elaborate
+Explanation,This is the situation
+Explanation,Let me tell you the facts
+Explanation,Here's what I found out
+Explanation,Allow me to expound
+Explanation,This is the reason
+Explanation,Let me shed light on this
+Explanation,Here's what I discovered
+Explanation,Allow me to clarify further
+Explanation,This is how it works
+Explanation,Let me describe it
+Explanation,Here's what I realized
+Explanation,Allow me to explain further
+Explanation,This is what occurred
+Explanation,Let me break it down
+Explanation,Here's what happened next
+Explanation,Allow me to clarify my point
+Explanation,This is how it happened
+Explanation,Let me be clear
+Explanation,Here's the situation
+Explanation,Allow me to describe it
+Explanation,This is what I meant
+Explanation,Let me set the record straight
+Explanation,Here's what I think
+Feedback,I'd like to provide my thoughts
+Feedback,I want to give some input
+Feedback,Could I share my opinion?
+Feedback,Can I offer my suggestion?
+Feedback,I have some comments to make
+Feedback,Let me express my viewpoint
+Feedback,I have some feedback to give
+Feedback,Could I leave some feedback?
+Feedback,How do I share my thoughts?
+Feedback,I want to submit my feedback
+Feedback,Here’s what I think
+Feedback,Let me tell you what I feel
+Feedback,I’d like to share my perspective
+Feedback,I’d like to offer my insight
+Feedback,I have an opinion to share
+Feedback,Here’s my feedback
+Feedback,Could I offer some feedback?
+Feedback,Can I share some feedback?
+Feedback,I’d like to offer my advice
+Feedback,I have some insights to share
+Feedback,Let me give you some feedback
+Feedback,Here’s my input
+Feedback,Can I give you some suggestions?
+Feedback,Can I give my opinion?
+Feedback,I’d like to give you my thoughts
+Feedback,Here’s what I think about this
+Feedback,Let me give you my two cents
+Feedback,Here’s what I’d suggest
+Feedback,Can I give you my feedback?
+Feedback,I want to give you some feedback
+Update,I want to change my account details
+Update,How do I modify my profile?
+Update,I need to update my information
+Update,How can I edit my account info?
+Update,Can I revise my personal details?
+Update,How do I change my contact info?
+Update,I want to alter my profile
+Update,How do I modify my account settings?
+Update,Can I update my preferences?
+Update,How do I change my email address?
+Update,I need to edit my profile
+Update,How can I update my contact information?
+Update,How do I change my phone number?
+Update,Can I revise my account settings?
+Update,How do I update my password?
+Update,I want to change my billing details
+Update,How can I modify my preferences?
+Update,I need to change my personal information
+Update,How do I update my payment details?
+Update,Can I edit my profile settings?
+Update,I need to change my address
+Update,How do I alter my account info?
+Update,Can I modify my account preferences?
+Update,How do I revise my billing information?
+Update,Can I edit my payment info?
+Update,How do I change my preferences?
+Update,Can I update my email settings?
+Update,How do I modify my personal info?
+Update,I need to update my profile information
+Update,How do I edit my personal details?
+Support,Can you assist me with this problem?
+Support,How can I get help with this issue?
+Support,How do I contact customer service?
+Support,Can I get technical assistance?
+Support,How do I reach the support team?
+Support,Can you help me troubleshoot this?
+Support,How can I resolve this issue?
+Support,I need help with this matter
+Support,How do I get in touch with support?
+Support,I need assistance with this problem
+Support,Can you help me fix this?
+Support,How do I get help from customer service?
+Support,How can I get technical help?
+Support,How do I contact technical support?
+Support,I need help solving this issue
+Support,How do I get support with this problem?
+Support,I need to contact customer service
+Support,How can I get customer support?
+Support,I need to resolve this issue
+Support,Can I get help with this?
+Support,How do I get help with this?
+Support,How can I troubleshoot this?
+Support,I need technical assistance
+Support,Can you resolve this problem for me?
+Support,How do I fix this issue?
+Support,How do I contact the help desk?
+Support,Can I speak to a support representative?
+Support,How can I contact support?
+Support,Can you help me with customer service?
+Support,How can I contact customer support?
+Explanation,Let me tell you what happened
+Explanation,Here’s what occurred
+Explanation,Allow me to clarify what happened
+Explanation,This is what took place
+Explanation,Let me describe the situation
+Explanation,Here’s what you need to know
+Explanation,Allow me to elaborate on this
+Explanation,This is the reason for it
+Explanation,Let me explain the details
+Explanation,Here’s what I discovered
+Explanation,Allow me to provide more context
+Explanation,This is how it works
+Explanation,Let me shed light on the matter
+Explanation,Here’s what happened next
+Explanation,Allow me to provide further information
+Explanation,This is what occurred next
+Explanation,Let me explain the sequence of events
+Explanation,Here’s what I realized
+Explanation,Allow me to give you more details
+Explanation,This is what I found out
+Explanation,Let me clarify my point
+Explanation,Here’s the background
+Explanation,Allow me to provide some clarity
+Explanation,This is how it happened
+Explanation,Let me set the record straight
+Explanation,Here’s what I think
+Explanation,Allow me to clarify the facts
+Explanation,This is what I meant
+Explanation,Let me explain the situation
+Explanation,Here’s the explanation
+Suggestion,How about we try a different method?
+Suggestion,Why don't we explore other options?
+Suggestion,How about we look at alternatives?
+Suggestion,Can I propose a different strategy?
+Suggestion,How about we test another approach?
+Suggestion,Why don't we discuss new ideas?
+Suggestion,How about we focus on different solutions?
+Suggestion,Can I recommend a different solution?
+Suggestion,How about we try something else?
+Suggestion,Why don't we consider new possibilities?
+Suggestion,How about we experiment with a new idea?
+Suggestion,Can I suggest a different plan?
+Suggestion,How about we explore new opportunities?
+Suggestion,Why don't we try a new direction?
+Suggestion,How about we think outside the box?
+Suggestion,Can I propose an alternative plan?
+Suggestion,How about we try an innovative approach?
+Suggestion,Why don't we rethink our strategy?
+Suggestion,How about we change our perspective?
+Suggestion,Can I recommend a new direction?
+Suggestion,How about we review our options?
+Suggestion,Why don't we brainstorm new solutions?
+Suggestion,How about we adapt our strategy?
+Suggestion,Can I propose a revised approach?
+Suggestion,How about we shift our focus?
+Suggestion,Why don't we refine our plan?
+Suggestion,How about we reconsider our goals?
+Suggestion,Can I recommend an updated plan?
+Suggestion,How about we evaluate new strategies?
+Suggestion,Why don't we innovate our approach?
+Advice,You should consult a professional
+Advice,It's important to get enough rest
+Advice,Try to stay positive
+Advice,You should eat healthy meals
+Advice,Stay organized
+Advice,It's wise to save money
+Advice,Don't skip meals
+Advice,You should exercise regularly
+Advice,Stay hydrated
+Advice,It's important to take breaks
+Advice,Don't procrastinate
+Advice,You should manage your time well
+Advice,Stay focused
+Advice,It's wise to set goals
+Advice,Don't overwork yourself
+Advice,You should practice self-care
+Advice,Stay calm
+Advice,It's important to stay connected
+Advice,Don't ignore problems
+Advice,You should learn continuously
+Advice,Stay motivated
+Advice,It's wise to seek feedback
+Advice,Don't rush decisions
+Advice,You should prioritize tasks
+Advice,Stay adaptable
+Advice,It's important to stay consistent
+Advice,Don't compare yourself to others
+Advice,You should be patient
+Advice,Stay resilient
+Advice,It's wise to stay informed
